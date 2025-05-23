@@ -1,7 +1,15 @@
-<h1>SISTEMA DE CONTROLE DE METAS VIA TERMINAL</h1>
+# Sistema de Controle de Metas via Terminal
 
-<h2>Tecnologia Usada </h2>
-<uL>
-  <li>JavaScript</li>
-  <li>Node.js</li>
-</uL>
+Este é um sistema simples de controle de metas desenvolvido com foco em uso via terminal. Ideal para acompanhar suas metas de forma prática e direta.
+
+## 🚀 Tecnologias Utilizadas
+
+- **JavaScript**
+- **Node.js**
+
+## ✨ Funcionalidades
+
+- Adição de novas metas
+- Listagem de metas existentes
+- Marcação de metas como concluídas
+- Exclusão de metas
